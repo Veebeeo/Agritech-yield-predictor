@@ -1,0 +1,15 @@
+earthengine-api
+geopandas
+pandas
+numpy
+scikit-learn
+xgboost
+streamlit
+folium
+streamlit-folium
+imdlib
+xarray
+netCDF4
+matplotlib
+seaborn
+geemap

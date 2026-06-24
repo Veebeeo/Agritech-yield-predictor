@@ -1,0 +1,33 @@
+# Prerequisites
+*.py[cod]
+__pycache__/
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Data & Shapefiles (CRITICAL: Do not upload large datasets to GitHub)
+data/raw/*
+data/processed/*
+data/shapefiles/*
+*.csv
+*.grd
+*.nc
+*.zip
+*.geojson
+*.shp
+*.shx
+*.dbf
+*.prj
+
+# Except keep the folder structure intact (optional but good practice)
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/shapefiles/.gitkeep
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
