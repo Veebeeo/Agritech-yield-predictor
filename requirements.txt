@@ -1,15 +1,8 @@
-earthengine-api
-geopandas
+streamlit==1.32.0
 pandas
 numpy
 scikit-learn
 xgboost
-streamlit
 folium
 streamlit-folium
-imdlib
-xarray
-netCDF4
-matplotlib
-seaborn
-geemap
+joblib
