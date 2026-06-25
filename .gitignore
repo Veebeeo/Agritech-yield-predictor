@@ -21,7 +21,6 @@ data/shapefiles/*
 *.dbf
 *.prj
 
-# Except keep the folder structure intact (optional but good practice)
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 !data/shapefiles/.gitkeep
